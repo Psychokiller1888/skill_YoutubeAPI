@@ -1,0 +1,7 @@
+{
+    "skill": "YoutubeAPI",
+    "icon": "time",
+    "description": "Access and manage your youtube account",
+    "slotTypes": [],
+    "intents": []
+}
