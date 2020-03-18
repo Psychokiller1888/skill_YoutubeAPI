@@ -1,7 +1,7 @@
 {
     "name": "YoutubeAPI",
     "version": "0.0.1",
-    "icon": "fab fa-battle-net",
+    "icon": "fab fa-youtube",
     "category": "undefined",
     "author": "Psychokiller1888",
     "maintainers": [],
@@ -11,7 +11,7 @@
         ""
     ],
     "pipRequirements": [
-        "youtube-data-api"
+        "youtube-data-api==0.0.17"
     ],
     "conditions": {
         "lang": [
